@@ -18,11 +18,11 @@
 - **Why this metric fits:** Nó cho thấy đối thủ đang tập trung phục vụ tệp khách hàng bình dân hay cao cấp.
 - **Chart choice:** 100% Stacked column chart, phù hợp để thể hiện cơ cấu phần trăm (%) danh mục sản phẩm của mỗi bên.
 
-**Objective 3: Phát hiện điểm bất thường về giá (Anomaly Detection)**
-- **Selected metrics:** Giá bán hiện tại (Current price) và Giá bán trung bình thị trường (Market average price).
-- **Metric meaning:** Mức độ chênh lệch giá của một sản phẩm so với mặt bằng chung của thị trường.
-- **Why this metric fits:** Tìm ra các sản phẩm rẻ hơn 15% so với trung bình giúp nhận diện ngay các đợt "Xả hàng" hoặc "Flash Sale" của đối thủ.
-- **Chart choice:** Scatter plot, phù hợp để phát hiện các điểm dữ liệu dị biệt (outliers) nằm ngoài mức giá thông thường.
+**Objective 3: Đánh giá chiến lược định giá tổng thể của các chuỗi bán lẻ**
+- **Selected metrics:** Giá bán hiện tại (Current price) và Chuỗi bán lẻ (Source).
+- **Metric meaning:** Sự phân bổ các mức giá (giá thấp nhất, cao nhất, và giá trung vị) của toàn bộ sản phẩm trong một cửa hàng.
+- **Why this metric fits:** Giúp xác định ngay lập tức chuỗi nào chuyên bán hàng giá rẻ, chuỗi nào định vị cao cấp, và chuỗi nào có khoảng giá rộng nhất (phục vụ mọi đối tượng) mà không cần so khớp từng model.
+- **Chart choice:** Boxplot (Biểu đồ hộp), hoàn hảo để so sánh mức giá trung vị (median), độ phân tán (spread) và các mức giá ngoại lệ (outliers) giữa nhiều đối thủ cùng lúc.
 
 ---
 
