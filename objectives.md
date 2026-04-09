@@ -81,3 +81,22 @@
 - **Metric meaning:** Mức độ đáp ứng kỳ vọng của sản phẩm đối với số tiền khách hàng bỏ ra.
 - **Why this metric fits:** Tìm ra phân khúc giá có điểm đánh giá thấp nhất, từ đó phát hiện "khoảng trống thị trường" để cửa hàng nhập các model thay thế chất lượng hơn.
 - **Chart choice:** Bubble chart, với trục X là Phân khúc giá, trục Y là Điểm đánh giá, và độ lớn bong bóng là Số lượng khách, phù hợp để thấy bức tranh toàn cảnh về sự hài lòng.
+
+# Theme 6: Predictive Pricing & Strategy (Machine Learning)
+
+**Objective 11: Predict the "Fair Market Price" of a laptop based on its hardware specifications using a Regression model.**
+
+**Goal & Purpose:**
+The goal is to build an AI model that learns how much a laptop *should* cost based on its specs (RAM, CPU, GPU, Weight, etc.). As a Retail Consultant, we use this to evaluate a store's pricing strategy automatically. 
+
+**Intuitive Example:**
+* **Scenario A:** A store is selling an Asus laptop for **25,000,000 VND**. Our model looks at its specs and predicts it should cost **20,000,000 VND**. 
+  * **Conclusion:** It is selling too expensive.
+  * **Action:** Recommend the store to apply a discount voucher to clear inventory.
+* **Scenario B:** A store is selling a Lenovo laptop for **15,000,000 VND**. Our model predicts it should cost **19,000,000 VND**.
+  * **Conclusion:** It is a bargain. 
+  * **Action:** Put a "Best Deal" badge on it and run Facebook Ads to attract buyers.
+
+**Assumptions & Limitations:**
+* **Assumption:** The hardware market is currently stable.
+* **Limitation:** If there is a sudden global crisis (like a factory fire causing RAM prices to triple), the model's predictions will be wrong. The model must be retrained monthly with fresh data to stay accurate.
