@@ -1,0 +1,111 @@
+{
+        "id": "phongvu_laptop-msi-stealth-a16-ai-a3xvgg-208vn--s241101675",
+        "metadata": {
+            "source": "Phong Vu",
+            "crawl_date": "2026-03-21T16:39:38",
+            "url": "https://phongvu.vn/laptop-msi-stealth-a16-ai-a3xvgg-208vn--s241101675?selectPromotionId=2088279"
+        },
+        "product": {
+            "name": "Laptop Msi Stealth A16 AI+ A3XVGG - 208VN | RTX 4070",
+            "is_available": true
+        },
+        "pricing": {
+            "current_price": 71090000
+        },
+        "specs_raw": {
+            "CPU": "AMD Ryzen™ AI 9 HX 370",
+            "NPU": "AMD XDNA™ lên đến 50TOPs",
+            "RAM": "32GB Onboard 7500MHz LPDDR5x",
+            "VGA": "GeForce RTX™ 4070 8GB GDDR6",
+            "Ổ cứng": "2TB SSD M.2 NVMe",
+            "Màn hình": "16\" WQUXGA (3840 x 2400) 120Hz, 100% DCI-P3",
+            "Khác": "Bàn phím gaming RGB Per-Key của SteelSeries với phím Copilot, FHD webcam, AMD AI"
+        },
+        "social": {
+            "avg_rating": 0.0,
+            "review_count": 0,
+            "satisfied_info": ""
+        }
+    },
+
+{
+        "id": "anphat_laptop-asus-expertbook-p1-p1403cva-i508-50w",
+        "metadata": {
+            "source": "An Phat PC",
+            "crawl_date": "2026-03-21T18:44:49",
+            "url": "https://www.anphatpc.com.vn/laptop-asus-expertbook-p1-p1403cva-i508-50w.html"
+        },
+        "product": {
+            "name": "Laptop ASUS ExpertBook P1 P1403CVA-i508-50W (Intel Core i5 13420H | Intel UHD | 14 inch FHD | 8GB | 512GB | Win 11)",
+            "is_available": true
+        },
+        "pricing": {
+            "current_price": 15490000
+        },
+        "specs_raw": {
+            "CPU": "Intel Core i5 13420H (12MB, up to 4.60GHz)",
+            "VGA": "Intel UHD Graphics",
+            "Display": "14.0 inch FHD, Wide view, 16:9, Anti-glare, 300 nit, 45% NTSC",
+            "Ram": "8GB DDR5 SO-DIMM (1x8GB)",
+            "Ổ cứng": "512GB M.2 2280 NVMe™ PCIe® 4.0",
+            "Pin": "3-cell 50WHrs",
+            "Weight": "1.44 kg",
+            "Color": "Misty Grey",
+            "OS": "Windows 11 Home"
+        },
+        "social": {
+            "avg_rating": 0.0,
+            "review_count": 0,
+            "satisfied_info": "1823 Lượt xem"
+        }
+    }
+
+{
+        "id": "tgdd_acer-aspire-go-14-ag14-72p-54df-core-5-120u-nx-jsbsv-009",
+        "metadata": {
+            "source": "The Gioi Di Dong",
+            "crawl_date": "2026-03-21T15:07:27",
+            "url": "https://www.thegioididong.com/laptop/acer-aspire-go-14-ag14-72p-54df-core-5-120u-nx-jsbsv-009"
+        },
+        "product": {
+            "name": "Laptop Acer Aspire Go 14 AG14-72P-54DF - NX.JSBSV.009 (Core 5 120U, 16GB, 512GB, Full HD+, Win11)",
+            "is_available": true
+        },
+        "pricing": {
+            "current_price": 18590000
+        },
+        "specs_raw": {
+            "Công nghệ CPU": "Intel Core 5 Raptor Lake - 120U",
+            "Số nhân": "10",
+            "Số luồng": "12",
+            "Tốc độ CPU": "1.40 GHz (Lên đến 5.00 GHz khi tải nặng)",
+            "Card màn hình": "Card tích hợp - Intel UHD Graphics",
+            "RAM": "16 GB",
+            "Loại RAM": "DDR4 (1 khe 16 GB + 1 khe rời)",
+            "Tốc độ Bus RAM": "3200 MHz",
+            "Hỗ trợ RAM tối đa": "64 GB",
+            "Ổ cứng": "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",
+            "Kích thước màn hình": "14\"",
+            "Độ phân giải": "Full HD+ (1920 x 1200)",
+            "Tấm nền": "IPS",
+            "Tần số quét": "60Hz",
+            "Độ phủ màu": "45% NTSC",
+            "Công nghệ màn hình": "LED-backlit TFT LCD",
+            "Cổng giao tiếp": "2 x USB 3.2",
+            "Kết nối không dây": "Bluetooth 5.2",
+            "Webcam": "Full HD Webcam",
+            "Đèn bàn phím": "Không có đèn",
+            "Công nghệ âm thanh": "Acer Purified Voice",
+            "Tản nhiệt": "Hãng không công bố",
+            "Thông tin Pin": "3-cell Li-ion, 55 Wh",
+            "Hệ điều hành": "Windows 11 Home SL",
+            "Thời điểm ra mắt": "2025",
+            "Kích thước": "Dài 313.6 mm - Rộng 224.3 mm - Dày 17.9 mm - 1.4 kg",
+            "Chất liệu": "Vỏ nhựa"
+        },
+        "social": {
+            "avg_rating": 0.0,
+            "review_count": 0,
+            "satisfied_info": ""
+        }
+    },
