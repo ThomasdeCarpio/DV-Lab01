@@ -3,3 +3,6 @@ requests
 selenium
 python-dotenv
 supabase
+pandas
+scikit-learn
+numpy
